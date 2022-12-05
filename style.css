@@ -110,6 +110,9 @@ body {
 .right {
   margin-left: auto;
 }
+.left {
+  margin-right: auto;
+}
 .right p {
   margin-right: 10px;
   background:#0078FF;
